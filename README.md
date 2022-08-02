@@ -15,3 +15,7 @@ ANLR ( Automatic Number Licenserecognitio)
 textML ( Machine Learning)	
 	readingCaptcha.py  
 	textClasSkit.py  algoritm NB classifier; SVM
+	
+classifier
+	cnnPytorch.py
+	handwrtCNN.py
